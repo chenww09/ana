@@ -1,0 +1,28 @@
+% 
+
+\section{Data and Monte-Carlo samples}
+\label{sec:dataMC}
+
+The data sample used in this analysis has been collected by \lhcb in 2011 and 2012, at center-of-mass energies of \sqs=7\tev and 8\tev, respectively. For 2011, both Reco12
+(?) and Reco14/Stripping 20 samples were used.  The former was privately stripped by Vanya (?).  
+
+The corresponding integrated luminosities are...
+
+Events are triggered by... 
+
+and subsequently stripped by StrippingMicroDSTDiMuonDiMuonIncLine. This line takes StdLooseDiMuon as input, applies requirements on 
+muon momentum, transverse momentum, track and vertex chisquares, and transverse momentum of the composite particle 
+
+{\tt{(MINTREE('mu+'==ABSID,PT) > 650.0 *MeV) \& 
+(MINTREE('mu+'==ABSID,P) > -8000.0 *MeV) \& 
+(MAXTREE('mu+'==ABSID,TRCHI2DOF) < 5.0) \& 
+(in\_range( 3000.0 *MeV, MM, 100000000.0 *MeV)) \& 
+(VFASPF(VCHI2PDOF)< 20.0) \& 
+(PT > 2000.0)}}
+
+and saves the output in MicroDST format. The StdLooseDiMuon list contains pairs of oppositely charged muon from the StdAllLooseMuons list with the additional 
+requirement CombinationCut  (ADOCACHI2CUT(30, '')), MotherCut   (VFASPF(VCHI2) < 25)
+
+
+Simulated data were produced with 2011 conditions. Six samples of XX million events each were generated, each corresponding to a different decay under study. 
+Table \ref{tab:dataMCsamples} summarizes the various samples used in this analysis. 

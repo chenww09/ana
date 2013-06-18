@@ -1,0 +1,1164 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"poly",
+				"polynom_order"
+			],
+			[
+				"pt_",
+				"pt_ups"
+			],
+			[
+				"pt_u",
+				"pt_ups1"
+			],
+			[
+				"result_",
+				"result_for_fit"
+			],
+			[
+				"resul",
+				"result_for_fit"
+			],
+			[
+				"result",
+				"result_item"
+			],
+			[
+				"exp",
+				"exp_pdf"
+			],
+			[
+				"chi",
+				"chib_result"
+			],
+			[
+				"alp",
+				"alpha_results"
+			],
+			[
+				"alpha",
+				"alpha_results"
+			],
+			[
+				"gamma_",
+				"gamma_mean"
+			],
+			[
+				"dm_",
+				"dm_begin"
+			],
+			[
+				"cut",
+				"cut_expr"
+			],
+			[
+				"cu",
+				"cut_expr"
+			],
+			[
+				"Get",
+				"GetEntry"
+			],
+			[
+				"sel",
+				"sel_list"
+			],
+			[
+				"true",
+				"true_cb_g"
+			],
+			[
+				"data",
+				"data_chain"
+			],
+			[
+				"files",
+				"files2012_up"
+			],
+			[
+				"chi2_dtf",
+				"chi2_dtf_chib"
+			],
+			[
+				"shel",
+				"shelve"
+			],
+			[
+				"leg",
+				"legenda"
+			],
+			[
+				"ph",
+				"phi3"
+			],
+			[
+				"s",
+				"swme_media_view_settings"
+			],
+			[
+				"fi",
+				"fit_result"
+			],
+			[
+				"m",
+				"mcfit"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"D",
+				"DB"
+			],
+			[
+				"hi",
+				"hists_pt_g"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 2734,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/amazurov/.cache/.fr-BLQN2Y/chib_note/conclusion.tex",
+			"settings":
+			{
+				"buffer_size": 46,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conclusion.tex",
+			"settings":
+			{
+				"buffer_size": 46,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/amazurov/.cache/.fr-rKJ7Jf/chib_note/main.tex",
+			"settings":
+			{
+				"buffer_size": 3002,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "datamccomparison.tex",
+			"settings":
+			{
+				"buffer_size": 856,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "appendix.tex",
+			"settings":
+			{
+				"buffer_size": 2342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "efficiency.tex",
+			"settings":
+			{
+				"buffer_size": 331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "appendix-summary-table.tex",
+			"settings":
+			{
+				"buffer_size": 6963,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crosssection.tex",
+			"settings":
+			{
+				"buffer_size": 880,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lhcb-symbols-def.tex",
+			"settings":
+			{
+				"buffer_size": 41258,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Set",
+				"Set Syntax: Python"
+			],
+			[
+				"Set Sy",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax Py",
+				"Set Syntax: Python"
+			],
+			[
+				"Set sy",
+				"Set Syntax: Python"
+			],
+			[
+				"set syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setS",
+				"Set Syntax: Python"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"set text",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Set py",
+				"Set Syntax: Python"
+			],
+			[
+				"Set Pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"Set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"SetS",
+				"Set Syntax: Python"
+			],
+			[
+				"Auto",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Linter",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"linter",
+				"SublimeLinter: Load-Save Linting"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"Package Control: E",
+				"Package Control: Enable Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"J",
+				"Join Room"
+			],
+			[
+				"Sublime",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"Lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"unfol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"xml",
+				"Indent XML"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 277.0,
+		"history":
+		[
+			"import PyV8",
+			"view.set_status(\"l\",\"level0\")",
+			"view.add_regions(\"l\",[sublime.Region(21,29)],\"storage.type.js\",\"\", sublime.DRAW_OUTLINED)",
+			"view.set_status(\"l\",\"Level 0\")",
+			"view.set_status(\"l\",\"level0\")",
+			"view.add_regions(\"l\",[sublime.Region(21,29)],\"storage.type.js\",\"cross\", sublime.DRAW_OUTLINED)",
+			"view.add_regions(\"l\",[sublime.Region(21,28)],\"storage.type.js\",\"cross\", sublime.DRAW_OUTLINED)",
+			"view.add_regions(\"l\",[sublime.Region(21,28)],\"storage.type.js\",sublime.DRAW_OUTLINED)",
+			"view.add_regions(\"l\",[sublime.Region(21,28)],\"storage.type.js\",sublime.OUTLINE)",
+			"view.add_regions(\"l\",[sublime.Region(21,28)],\"storage.type.js\".sublime.OUTLINE)",
+			"view.add_regions(\"l\",[sublime.Region(21,28)],\"storage.type.js\")",
+			"view.add_regions(\"l\",[Region(21,28)],\"storage.type.js\")",
+			"view.add_regions(\"l\",sublime.Region(21,28),\"storage.type.js\")",
+			"view.add_regions(\"l\",Region(21,28),\"storage.type.js\")",
+			"view.scope_name(13)",
+			"view.text_point(1,0)",
+			"view.text_point(0,0)",
+			"view.add_regions(\"b1\",[sublime.Region(400,500)], \"\",\"circle\",sublime.PERSISTENT)",
+			"view.add_regions(\"b2\",[sublime.Region(410,420)], \"source.python comment.line.number-sign.python\",\"circle\",sublime.PERSISTENT)",
+			"view.add_regions(\"b1\",[sublime.Region(400,500)], \"source.python keyword.control.import.python \",\"circle\",sublime.PERSISTENT)",
+			"view.add_regions(\"b\",[sublime.Region(400,500)], \"source.python keyword.control.import.python \",\"circle\",sublime.PERSISTENT)",
+			"view.add_regions(\"b\",[sublime.Region(410,420)], \"source.python comment.line.number-sign.python\",\"circle\",sublime.PERSISTENT)",
+			"view.add_regions(\"b\",[sublime.Region(400,500)], \"source.python keyword.control.import.python \",\"circle\",sublime.PERSISTENT)",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python keyword.control.import.python \",\"circle\",sublime.PERSISTENT)",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python keyword.control.import.python \",\"circle\",sublime.DRAW_PERSISTENT)",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python keyword.control.import.python \",\"circle\",sublime.DRAW_OUTLINED)",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python keyword.control.import.python \",\"dot\",sublime.DRAW_OUTLINED)",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python comment.line.number-sign.python \",\"dot\",sublime.DRAW_OUTLINED)",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python comment.line.number-sign.python \",\"dot\",sublime.DRAW_OULINED)",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python comment.line.number-sign.python \",\"dot\",sublime.HIDDEN)",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python comment.line.number-sign.python \",\"dot\")",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python comment.line.number-sign.python \")",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python comment.line.number-sign.python\")",
+			"view.add_regions(\"b\",[sublime.Region(200,300)], \"source.python\")",
+			"view.add_regions(\"b\",[sublime.Region(10,20)], \"source.python\")",
+			"sublime.Region(10,20)",
+			"sublime.Region",
+			"sublime",
+			"sublimetext",
+			"Region",
+			"view.add_regions(\"b\",[(10,20)], \"source.python\")",
+			"view.add_regions(\"b\",[reg], \"source.python\")",
+			"view.add_regions(\"b\",[reg], \"source.python comment\")",
+			"view.add_regions(\"b\",[reg], \"comment\")",
+			"view.add_regions(\"b\",[reg], \"source.python comment.line.number-sign.python\")",
+			"view.add_regions(\"c\",[reg], \"comment.line.number-sign.python\")",
+			"view.add_regions(\"v\",[reg], \"comment.line.number-sign.python\")",
+			"view.add_regions(\"c\",[reg], \"comment.line.number-sign.python\")",
+			"view.add_regions(\"b\",[reg], \"comment.line.number-sign.python\")",
+			"view.add_regions(\"b\",[reg], \"source.python comment.line.number-sign.python\")",
+			"reg",
+			"reg = view.extract_scope(52)",
+			"view.scope_name(52)",
+			"view.text_point(2,1)",
+			"view.scope_name(5)",
+			"view.text_point(0,5)",
+			"reg",
+			"reg = view.extract_scope(151)",
+			"view.text_point(9,5)",
+			"view.scope_name(136)",
+			"reg",
+			"reg = view.extract_scope(136)",
+			"view.text_point(6,12)",
+			"reg = view.extract_scope(64)",
+			"view.add_regions(\"a\",[reg], \"\")",
+			"view.add_regions(\"a\",[reg], \"source.python comment.line.number-sign.python\")",
+			"view.add_regions(\"a\",[reg], \"source.python comment.line.number-sign.python \")",
+			"view.add_regions(\"a\",[reg], \"source.python \")",
+			"view.add_regions",
+			"reg = view.extract_scope(64)",
+			"view.extract_scope(64)",
+			"view.extract_scope(148)",
+			"view.scope_name(148)",
+			"view.text_point(9,2)",
+			"view.scope_name(147)",
+			"view.text_point(9,1)",
+			"view.scope_name(64)",
+			"view.text_point(3,1)",
+			"view.scope_name(64)",
+			"view.text_point(3,1)",
+			"point",
+			"view.scope_name(20)",
+			"view.scope_name(100)",
+			"view.scope_name(1)",
+			"view.scope_name(10)",
+			"view.scope_name(point)",
+			"view.point",
+			"view.settings().get('syntax')",
+			"view.settings().get('syntax').",
+			"view",
+			"0.04163/0.02174",
+			"0.04277/0.01943",
+			"0.03164/0.02174",
+			"0.03264/0.01943",
+			"import pycco",
+			"sublime.activ",
+			"sublime.packages_path()",
+			"sublime.message_dialog(\"test\")",
+			"w =sublime.windows()[0]",
+			"sublime.windows()[0]",
+			"sublime.windows()",
+			"import sublime",
+			"#sublime_plugin.windows()",
+			"sublime_plugin.windows()",
+			"windows()",
+			"a.help()",
+			"a",
+			"a.",
+			"__doc__()",
+			"__doc__",
+			"a",
+			"a = sublime_plugin.TextCommand",
+			"help(sublime_plugin.TextCommand)",
+			"sublime_plugin.TextCommand?",
+			"sublime_plugin.TextCommand",
+			"import sublime_plugin",
+			"sublime_plugin",
+			"TextCommand"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/amazurov/.cache/.fr-FfO0sf/chib_note/mass.tex",
+		"/home/amazurov/dev/ana/mass.tex",
+		"/home/amazurov/.cache/.fr-PiW5Od/chib_note/systematics.tex",
+		"/home/amazurov/dev/ana/systematics.tex",
+		"/home/amazurov/.cache/.fr-FtsIHV/chib_note/crosssection.tex",
+		"/home/amazurov/dev/ana/crossection.tex",
+		"/home/amazurov/.cache/.fr-lZYens/chib_note/Efficiency.tex",
+		"/home/amazurov/dev/ana/efficiency.tex",
+		"/home/amazurov/.cache/.fr-pH6AkO/chib_note/UpsilonFit.tex",
+		"/home/amazurov/dev/ana/upsilonfit.tex",
+		"/home/amazurov/.cache/.fr-ToV4wX/chib_note/ChibFit.tex",
+		"/home/amazurov/dev/ana/chibfit.tex",
+		"/home/amazurov/.cache/.fr-DavGmN/chib_note/dataMCcomparison.tex",
+		"/home/amazurov/dev/ana/datamccomparison.tex",
+		"/home/amazurov/.cache/.fr-ngpIKS/chib_note/evtselection.tex",
+		"/home/amazurov/dev/ana/evtselection.tex",
+		"/home/amazurov/.cache/.fr-L6rkCp/chib_note/dataMC.tex",
+		"/home/amazurov/dev/ana/datamc.tex",
+		"/home/amazurov/.cache/.fr-Tmpw8N/chib_note/introduction.tex",
+		"/home/amazurov/dev/ana/introduction.tex",
+		"/home/amazurov/dev/ana/preamble.tex",
+		"/home/amazurov/dev/ana/appendix.tex",
+		"/home/amazurov/dev/ana/title-LHCb-ANA.tex",
+		"/home/amazurov/dev/ana/lhcb-symbols-def.tex",
+		"/home/amazurov/.cache/.fr-sdlsix/title-LHCb-ANA.tex",
+		"/home/amazurov/.cache/.fr-CMo71z/LHCb.bst",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/graphs_width.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/lib/chib.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/mc_chib_fit.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/binning.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/graphs_mc_width.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/graphs.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/plot_params.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/lib/fit.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/data_chib_fit.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/mc_chib_fit.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/rec_yields_2012.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/graphs_frac1p_2011_2012.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/graphs_frac2p_2011_2012.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/graphs_frac3p_2011_2012.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/tuples.ganga",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/rec_yields_2011.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/data_ups_fit.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/lib/ups.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/mc_yields.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/mc_yields.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/mc_eff.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/graphs_frac1p_2010_2011.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/graphs_frac_2011_2012.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/lib/selector.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/tuples.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/data_chib_fit.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/mc_alpha.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/mc_alpha_frac.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/graphs_mc_alpha.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/graphs_mc_alpha_frac.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/lib/utils.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/mc_alpha.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/mc_alpha.py",
+		"/afs/cern.ch/user/a/amazurov/work/cmtuser/Bender_v22r6/Phys/AnalysisPython/Analysis/Models.h",
+		"/afs/cern.ch/user/a/amazurov/work/cmtuser/Bender_v22r6/Phys/AnalysisPython/src/Models.cpp",
+		"/afs/cern.ch/user/a/amazurov/work/cmtuser/Bender_v22r6/Phys/AnalysisPython/dict/AnalysisPython.xml",
+		"/afs/cern.ch/user/a/amazurov/work/cmtuser/Bender_v22r6/Phys/AnalysisPython/python/AnalysisPython/Models.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/tmp/draw.py",
+		"/afs/cern.ch/user/a/amazurov/work/cmtuser/_Bender_v22r6/Phys/AnalysisPython/src/Models.cpp",
+		"/afs/cern.ch/user/a/amazurov/work/cmtuser/Bender_v22r4/Phys/AnalysisPython/src/Models.cpp",
+		"/afs/cern.ch/user/i/ibelyaev/w0/cmtuser/Bender_v22r6/Phys/DiCharm/work_Y/Selector.py",
+		"/afs/cern.ch/user/i/ibelyaev/cmtuser/Bender_v22r6/Phys/DiCharm/work_Y/Selector.py",
+		"/home/amazurov/Downloads/Stack Exchange Data Dump - Jun 2013/Content/cstheory.stackexchange.com/PostHistory.xml",
+		"/home/amazurov/Downloads/Stack Exchange Data Dump - Jun 2013/Content/cstheory.stackexchange.com/Posts.xml",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/mc_fit.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/frac_2011_2012.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/frac_2010_2011.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/mc_eff_graph.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/graph_mc_eff.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/frac2p_2011_2012.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/frac3p_2011_2012.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/frac.py",
+		"/home/amazurov/.cache/.fr-OzLZtV/Chib 2011.html",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/rec_yields_2011_old.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/results/rec_yields_2012_old.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/frac.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/.gitignore",
+		"/home/amazurov/.ssh/config",
+		"/afs/cern.ch/user/a/amazurov/work/cmtuser/_Bender_v22r6/Phys/AnalysisPython/src/Mute.cpp",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/mc_tuples.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/data_strip.py",
+		"/home/amazurov/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/mc_tuples.ganga",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/plot_params.py",
+		"/home/amazurov/dev/chib-www/_posts/2013-05-29-presults.md",
+		"/home/amazurov/dev/chib-www/_posts/2013-05-21-presults.md",
+		"/home/amazurov/dev/chib-www/_posts/2013-04-24-upsilonfit.md",
+		"/home/amazurov/dev/chib-www/_posts/2013-05-02-pullhist.md",
+		"/home/amazurov/dev/chib-www/_posts/2013-05-07-pullhist2.md",
+		"/home/amazurov/dev/chib-www/_config.yml",
+		"/home/amazurov/dev/chib-www/_posts/2013-05-17-mcspectrum.md",
+		"/home/amazurov/dev/chib-www/_layouts/layout.html",
+		"/home/amazurov/.cache/.fr-uQc4A9/path.py-3.2/path.py",
+		"/home/amazurov/dev/chib-www/images/pullhist/chib.png",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/upsfit.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/upsstrip.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/strip.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/2012_ups_reco14_s20_tuples.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/12_up_reco14_s20.mdst.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/12_down_reco14_s20.mdst.json",
+		"/afs/cern.ch/user/a/amazurov/.gangarc",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/strip.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/fit.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/upsfit.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/chib/models.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/2012_down_reco14_s20.mdst.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/2012_ups_down_reco14_s20_tuples.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/2012_ups_up_reco14_s20_tuples.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/ups_tuples.ganga",
+		"/afs/cern.ch/user/a/amazurov/work/cmtuser/Projects/Chib/analyze/models.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/ups_tuples.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/fit.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/11_down_reco14_s20r1.mdst.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/11_up_reco14_s20r1.mdst.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/chib/selector.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/chib/utils.py",
+		"/home/amazurov/Downloads/18 - 2 - CodeSkulptor (11-22).txt",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/2011_reco14_s20r1_tuples.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/2012_reco14_s20_tuples.json",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/compare.py",
+		"/afs/cern.ch/user/a/amazurov/work/thesis/configs/compare.json",
+		"/home/amazurov/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/afs/cern.ch/user/a/amazurov/work/thesis2/",
+			"/afs/cern.ch/user/a/amazurov/work/thesis0/",
+			"/afs/cern.ch/user/a/amazurov/work/thesis2/",
+			"/afs/cern.ch/user/a/amazurov/work/thesis/",
+			"/afs/cern.ch/user/a/amazurov/work/thesis/plots"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\\sq",
+			"table",
+			"0.3",
+			"2011",
+			"0.33",
+			"0.49",
+			"0.3",
+			"49",
+			"{figure",
+			"figure",
+			"one",
+			"&7",
+			"{8}",
+			"3P",
+			"utils.",
+			"55",
+			"1.41",
+			"0.31",
+			"+3",
+			"labels",
+			"2P",
+			"nbins",
+			"result_item",
+			"CUT_EX",
+			"process",
+			"RU.",
+			"n2p",
+			"NumCPU",
+			"Num",
+			"NumCPU",
+			"Nu",
+			"1P",
+			"dm_1s",
+			"Model",
+			"phi7",
+			"14_18",
+			"4 < p_{T}(#Upsilon) < 18",
+			"12_14",
+			"12 < p_{T}(#Upsilon) < 14",
+			"11_12",
+			"11 < p_{T}(#Upsilon) < 12",
+			"10_11",
+			"10 < p_{T}(#Upsilon) < 11",
+			"9_10",
+			"9 < p_{T}(#Upsilon) < 10",
+			"8_9",
+			"8 < p_{T}(#Upsilon) < 9",
+			"7_8",
+			"7 < p_{T}(#Upsilon) < 8",
+			"6_7",
+			"p_{T}",
+			"6 < p_{T} < 7",
+			"rootID",
+			"ID",
+			"is_good_fit",
+			"GammaDist",
+			"fChib",
+			"m_threshold",
+			"ChibPdf",
+			"._",
+			"progress",
+			"1P",
+			"_cuts",
+			"cuts",
+			" _cuts",
+			"Terminate",
+			"min",
+			"mmin",
+			"Gamma",
+			"ArgSet",
+			"fitTo",
+			"labels",
+			"dataset",
+			"1P",
+			"11",
+			"dataset",
+			"shell",
+			"h_chib",
+			"UpsModel",
+			"01",
+			"65",
+			"Process",
+			"ROOT",
+			"m_left",
+			"NB",
+			"chib_name",
+			"ups_name",
+			"of p",
+			"?",
+			"+-",
+			"</td>",
+			"</th>",
+			"</td>",
+			"     GblCorr.",
+			"  <none>",
+			"--",
+			"-",
+			"  <none>",
+			"hist/",
+			"  <none>",
+			" ",
+			"<none>",
+			"lv01",
+			"labels",
+			"legend",
+			"down/",
+			"up/",
+			"20_",
+			"_up",
+			"syntax",
+			"dm",
+			"'",
+			"LFN:",
+			"'",
+			"tuples",
+			"\n",
+			"62",
+			"output",
+			"'",
+			"LFN:",
+			"'",
+			"DIRAC",
+			"Ups",
+			"Chib",
+			"No",
+			"_tuples",
+			"/Phys/Upsilon",
+			"Upsilon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&#177;",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"castor:///castor/cern.ch/user/a/amazurov/ganga/2011/2",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"]",
+			"[",
+			"",
+			" ",
+			"[$0],",
+			",",
+			"[$0],",
+			", ",
+			"[$0],",
+			"($0),",
+			"({0}),",
+			", ",
+			"colors_chib"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2717,
+								2717
+							]
+						],
+						"settings":
+						{
+							"sublimelinter": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 576.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/amazurov/.cache/.fr-BLQN2Y/chib_note/conclusion.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"sublimelinter": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "conclusion.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/amazurov/.cache/.fr-rKJ7Jf/chib_note/main.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2877,
+								2877
+							]
+						],
+						"settings":
+						{
+							"sublimelinter": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1056.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "datamccomparison.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"sublimelinter": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "appendix.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2190,
+								2190
+							]
+						],
+						"settings":
+						{
+							"sublimelinter": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "efficiency.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"sublimelinter": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "appendix-summary-table.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "crosssection.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"sublimelinter": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "lhcb-symbols-def.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20844,
+								20844
+							]
+						],
+						"settings":
+						{
+							"sublimelinter": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6665.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "note.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fit.js",
+				"thesis/configs/fit.json"
+			],
+			[
+				"mode",
+				"thesis/chib/models.py"
+			],
+			[
+				"model",
+				"thesis/chib/models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/dev/chib-www/chib-www.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
