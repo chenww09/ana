@@ -1,0 +1,3 @@
+#!/bin/sh
+
+latexmk -pdf --outdir=build main.tex && evince build/main.pdf

@@ -5,5 +5,8 @@
 			"follow_symlinks": true,
 			"path": "/home/amazurov/dev/ana"
 		}
-	]
+	],
+    "settings": {
+        "spell_check": true
+    }
 }
